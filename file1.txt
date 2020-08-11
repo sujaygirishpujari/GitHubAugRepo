@@ -8,6 +8,6 @@ change made by other user
 change 2 by user 
 
 
-void myMethod (){
+static void myMethod (String str){
 sop("This is my method");
 }
