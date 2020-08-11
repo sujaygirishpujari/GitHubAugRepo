@@ -6,3 +6,8 @@ Syste.out();
 
 change made by other user
 change 2 by user 
+
+
+void myMethod (){
+sop("This is my method");
+}
