@@ -10,6 +10,6 @@ change 2 by user
 
 
 static String void myMethod (String str){
-return "This is my method : conflict may come";
+return "This is my method : resolved";
 }
 
